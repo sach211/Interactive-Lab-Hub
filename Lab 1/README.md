@@ -68,15 +68,29 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
-Setting: The interaction device functions like a compass, but instead of showing directions it alerts the user when there is a person within 6 feet near them. The colours indicate the direction from which the person/animal/object is approaching, and the intensity of the colour depicts how close they are. 
+
+_Setting:_ The interaction is situated in any public location where the user may run into people they don't know. It is especially useful during this pandemic to ensure that everyone is 6 ft away from the user.
+
+_Players:_ Players in the setting include the user who wants to be at 6ft from other people, and the other people who come within 6 feet of them. Other players include animals and things that may come within the 6 ft but shouldn't trigger the device.
+
+_Activity:_ While the user wears the device, the other actors are near him/her and approaching him/her.
+
+The interaction device functions like a compass and is to be worn on the user's wrist, but instead of showing directions it alerts the user when there is a person within 6 feet near them. The colours indicate the direction from which the person/animal/object is approaching, and the intensity of the colour depicts how close they are. 
 ![Color Gradient](/Lab%201/images/colorGradient.jpeg?raw=true)
+
+_Goals:_ The goal of the user is to travel across the setting without coming in close contact with the other actors. 
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
 
+The storyboard: 
+![storyboard](/Lab%201/images/storyboard.png?raw=true)
+
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
+Feedback recieved:
+The device color is too close to red and will confuse the user. The colorscale should be present on the storyboard to make it clear. The last frame doesn't explain how the user (Tinkerbelle) got 6 ft away from the other actor (Captain Hook) again.
 
 ## Part B. Act out the Interaction
 
