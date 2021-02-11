@@ -68,6 +68,8 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
+Setting: The interaction device functions like a compass, but instead of showing directions it alerts the user when there is a person within 6 feet near them. The colours indicate the direction from which the person/animal/object is approaching, and the intensity of the colour depicts how close they are. 
+![alt text](https://github.com/sach211/Interactive-Lab-Hub/blob/Lab 1/images/s - Copy.jpeg?raw=true)
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
