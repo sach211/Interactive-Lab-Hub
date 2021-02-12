@@ -90,7 +90,7 @@ Present your idea to the other people in your breakout room. You can just get fe
 **Summarize feedback you got here.**
 
 Feedback recieved:
-The device color is too close to red and will confuse the user. The colorscale should be present on the storyboard to make it clear. The last frame doesn't explain how the user (Tinkerbelle) got 6 ft away from the other actor (Captain Hook) again.
+The device color is too close to red and will confuse the user. The colorscale should be present on the storyboard to make it clear. The last frame doesn't explain how the user (Tinkerbelle) got 6 ft away from the other actor (Captain Hook) again.The interaction was initially designed to have arrows depict where the intruder is approaching from, however this will be hard to replicate with the prototyping device. 
 
 ## Part B. Act out the Interaction
 
