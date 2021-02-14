@@ -84,22 +84,26 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 **Include a picture of your storyboard here**
 
 The storyboard: 
-![storyboard](/Lab%201/images/storyboard.png?raw=true)
+![storyboard](/Lab%201/images/storyboard_old.png?raw=true)
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
 Feedback recieved:
-The device color is too close to red and will confuse the user. The colorscale should be present on the storyboard to make it clear. The last frame doesn't explain how the user (Tinkerbelle) got 6 ft away from the other actor (Captain Hook) again.The interaction was initially designed to have arrows depict where the intruder is approaching from, however this will be hard to replicate with the prototyping device. 
+The device color is too close to red and will confuse the user. The colorscale should be present on the storyboard to make it clear. The colors can also be confusing without a scale available on the device. The last frame doesn't explain how the user (Tinkerbelle) got 6 ft away from the other actor (Captain Hook) again.
 
 ## Part B. Act out the Interaction
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 **Are there things that seemed better on paper than acted out?**
+The color gradient scale seemed better on paper than when acted out, as the range of colors makes it hard for the user to remember which direction is indicated by which color. The amount of time spent in trying to figure out which direction the 6ft-intruder is approaching from is more than the time taken for the intruder to come a little too close to the user. This feature needs to be more intuitive.
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
+Arrows would make more intuitive descriptors than just the colors. However, the increasing intensity of the colors are good indicators of the decreasing distance between the user and the intruder. Therefore, the device will now have colored arrows - the colors following the gradient scale given above, but in the form of an arrow pointing out  the direction from which the intruder is approaching.
 
+Updated storyboard: 
+![storyboard](/Lab%201/images/storyboard.png?raw=true)
 
 ## Part C. Prototype the device
 
@@ -109,6 +113,7 @@ Code for the "Tinkerbelle" tool, and instructions for setting up the server and 
 
 We invented this tool for this lab! 
 **Give us feedback on Tinkerbelle.**
+
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -136,6 +141,8 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Please indicate anyone you collaborated with on this Lab.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+Received helpful feedback from Antonio Mojena, Sanika Bapat, and Joy Liu during the break out room session, and after class too. 
+
 
 # Staging Interaction, Part 2 
 
