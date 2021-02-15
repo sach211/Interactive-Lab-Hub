@@ -132,7 +132,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your device might look like here.**
 Sketches of the intruder-compass:
-![Product_design](/Lab%201/images/product-design.jpeg?raw=true)
+![Product_design](/Lab%201/images/product_design.jpeg?raw=true)
 
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
 The intruder-compass is designed to look like a watch. This is a device that is light and easy to wear on your wrist. In neutral state, it displays a blank grey screen. When an intruder is approaching, the arrow and color intensity indicates the direction from and distance at which the intruder is approaching from.
